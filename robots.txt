@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oquahdohza.stefanbache.dk/sitemap.xml
